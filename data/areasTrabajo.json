@@ -1,0 +1,88 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "nombre": "DERECHO CIVIL",
+      "descripcion": "Resolución justa de disputas contractuales y de propiedad.",
+      "contenido": "Resolvemos disputas legales en asuntos como contratos, propiedad, responsabilidad civil y más, garantizando que tus derechos estén protegidos.",
+      "imagen": "img/icon-1.png"
+    },
+    {
+      "id": 2,
+      "nombre": "DERECHO PENAL",
+      "descripcion": "Defensa legal en casos penales, protegiendo tus derechos.",
+      "contenido": "Ofrecemos defensa legal sólida en casos penales, asegurando que tus derechos sean respetados y proporcionando representación experta en el sistema judicial.",
+      "imagen": "img/icon-2.png"
+    },
+    {
+      "id": 3,
+      "nombre": "DERECHO LABORAL",
+      "descripcion": "Asesoramiento en asuntos laborales y conflictos en el trabajo.",
+      "contenido": "Brindamos asesoramiento en asuntos laborales, desde contrataciones hasta despidos, asegurando un trato justo y equitativo para empleados y empleadores.",
+      "imagen": "img/icon-3.png"
+    },
+    {
+      "id": 4,
+      "nombre": "DERECHO TRIBUTARIO",
+      "descripcion": "Guía en cumplimiento de impuestos y planificación fiscal.",
+      "contenido": "Navegamos por el complejo mundo de los impuestos, asesorándote en cumplimiento fiscal y optimización de tus obligaciones tributarias.",
+      "imagen": "img/icon-4.png"
+    },
+    {
+      "id": 5,
+      "nombre": "DERECHO ADMINISTRATIVO",
+      "descripcion": "Protección en casos de función pública y sumarios.",
+      "contenido": "Te asistimos en procedimientos administrativos y sumarios, protegiendo tus derechos en situaciones relacionadas con la función pública.",
+      "imagen": "img/icon-5.png"
+    },
+    {
+      "id": 6,
+      "nombre": "DERECHO PENAL ECONÓMICO",
+      "descripcion": "Defensa en casos de corrupción y delitos financieros.",
+      "contenido": "Nos especializamos en casos de delitos económicos y corrupción, defendiendo tus intereses y garantizando un proceso justo.",
+      "imagen": "img/icon-6.png"
+    },
+    {
+      "id": 7,
+      "nombre": "DERECHO DE FAMILIA",
+      "descripcion": "Soluciones legales en asuntos familiares sensibles.",
+      "contenido": "Resolvemos asuntos familiares delicados como divorcios, custodia y manutención, procurando soluciones equitativas para todas las partes involucradas.",
+      "imagen": "img/icon-7.png"
+    },
+    {
+      "id": 8,
+      "nombre": "DERECHO FINANCIERO",
+      "descripcion": "Asesoría en transacciones financieras y bancarias.",
+      "contenido": "Proporcionamos asesoramiento legal en transacciones financieras y bancarias, asegurando que tus intereses sean protegidos en el mundo financiero.",
+      "imagen": "img/icon-8.png"
+    },
+    {
+      "id": 9,
+      "nombre": "DERECHO COOPERATIVO",
+      "descripcion": "Orientación en creación y operación de cooperativas.",
+      "contenido": "Te guiamos en la creación y operación de cooperativas, asegurando un entendimiento sólido de tus derechos y responsabilidades como miembro.",
+      "imagen": "img/icon-8.png"
+    },
+    {
+      "id": 10,
+      "nombre": "DERECHO COACTIVO FISCAL",
+      "descripcion": "Asistencia en procesos de cobro fiscal.",
+      "contenido": "Brindamos asistencia en procesos de cobro fiscal, garantizando que se sigan los procedimientos adecuados y protegiendo tus derechos.",
+      "imagen": "img/icon-8.png"
+    },
+    {
+      "id": 11,
+      "nombre": "CONTRATACIONES ESTATALES",
+      "descripcion": "Guía en trámites de contratación con el estado.",
+      "contenido": "Te asesoramos en procesos de contratación con el estado, asegurando que se cumplan los requisitos legales y obteniendo resultados favorables.",
+      "imagen": "img/icon-8.png"
+    },
+    {
+      "id": 12,
+      "nombre": "CONSTITUCIÓN DE SOCIEDADES",
+      "descripcion": "Ayuda en establecimiento legal de empresas.",
+      "contenido": "Te ayudamos a establecer tu empresa, proporcionando orientación en la elección de la estructura legal adecuada y asegurando un proceso fluido.",
+      "imagen": "img/icon-8.png"
+    }
+  ]
+}

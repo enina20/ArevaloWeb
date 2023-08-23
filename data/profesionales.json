@@ -1,0 +1,32 @@
+{
+  "profesionales": [
+    {
+      "id": 1,
+      "nombre": "MOISÉS EMILIO ARÉVALO CABRERA",
+      "descripcion": "Licenciado en Ciencias Jurídicas",
+      "contenido": "Abogado, Licenciado en Ciencias Jurídicas, habiendo obtenido su Título Profesional en el año 2005, de la Universidad Privada Franz Tamayo, Sede Académica La Paz, cuenta con Especialidad en Derecho Administrativo; Derecho Bancario; Derecho Cooperativo; Derecho Penal y Derecho Corporativo. Experiencia profesional de 18 años en el ejercicio de su profesión; fue Funcionario en el Ministerio Publico, prestó Asesoramiento Legal en entidades públicas y empresas privadas, patrocinando procesos laborales, procesos administrativos y penales, supervisión de entidades financieras (Cooperativas de Ahorro y Crédito e Instituciones Financieras de Desarrollo), entre las cuales se puede mencionar: Instituto Nacional de Reforma Agraria INRA, Administradora Boliviana de Carreteras ABC, Servicio Nacional de Áreas Protegidas SERNAP, Corporación del Seguro Social Militar COSSMIL, Autoridad de Supervisión del Sistema Financiero ASFI, Instituto Nacional del Seguro Agrario INSA, Instituto Nacional de Innovación Agropecuaria y Forestal INIAF, Dirección General de Registro, Control y Administración de Bienes Incautados DIRCABI.",
+      "imagen": "img/team-1.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "JAVIER MAURICIO AREVALO CABRERA",
+      "descripcion": "Licenciado en Ciencias Jurídicas",
+      "contenido": "Abogado, Licenciado en Ciencias Jurídicas, habiendo obtenido su Título Profesional en el año 2004, de la Universidad Privada Franz Tamayo, Sede Académica La Paz, cuenta con Especialidad en Derecho Laboral y Seguridad Social; Especialidad en Contratos Civiles, Comerciales y Administrativos; Posgrado en Derecho Procesal Civil y Derecho de las Familias y del Proceso Familiar. Experiencia profesional de 19 años en el ejercicio de su profesión; fue Funcionario Judicial, en materia Familiar, prestó Asesoramiento Legal en entidades públicas y empresas privadas, patrocinando procesos laborales, coactivo fiscales, administrativos y penales, entre las cuales se puede mencionar: C.N.S., Gobierno Municipal de La Paz, CIES, Bolivia TV, Ministerio de Obras Publicas Servicios y Vivienda Empresa Pública Nacional Estratégica de Yacimientos de Litio Bolivianos; también se desempeñó como Autoridad Sumariante en diferentes Instituciones Públicas, experiencia en contrataciones estatales. Fue Miembro y Presidente del Directorio de la Administración de Aeropuertos y Servicios Auxiliares a la Navegación Aérea AASANA, durante la gestión 2016 – 2017; posteriormente, nombrado Director General Ejecutivo de la Administración de Aeropuertos y Servicios Auxiliares a la Navegación Aérea AASANA.",
+      "imagen": "img/profesionales/JavierArevalo.png"
+    },
+    {
+      "id": 3,
+      "nombre": "JUAN RODIRIGO AREVALO CABRERA",
+      "descripcion": "Licenciado en Ciencias Jurídicas",
+      "contenido": "Abogado, Licenciado en Ciencias Jurídicas",
+      "imagen": "img/team-1.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "MOISES AREVALO LOAYZA",
+      "descripcion": "Licenciado en Ciencias Económicas y Financieras",
+      "contenido": " Licenciado en Ciencias Económicas y Financieras , mención Auditoria Financiera, titulo obtenido en la Universidad Mayor y Pontificia de San Francisco Xavier de Chuquisaca en el año 1974, cuenta con especialidad en Auditoria Tributaria, habiendo cursado estudios en la Fundación Getulio Vargas, Rio de Janeiro Brasil;  Curso de Instituciones y Técnicas Tributarias, en el Min. de Economía y Hacienda de Madrid-España, Curso de Fortalecimiento Gerencial en el CIAT-IRS-BID Caracas-Venezuela y 15 cursos del Control Interno en la Contraloría General del Estado , La Paz-Bolivia. Experiencia profesional de 49 años de vida profesional en Área de Tributos y Control Interno. Preste servicios en la Administración Tributaria durante 22 años, empezando de Auditor de planta hasta Sub Director a.i. de Impuestos Nacionales; en la Administración de Aeropuertos y Servicios a Navegación Aérea, como Auditor y posteriormente como Supervisor de Auditoria Interna; también en el Consejo de la Magistratura, Distrito La Paz como Auditor de Salas Sociales y en el Consejo Nacional  de la Magistratura, sede  Sucre como Jefe Nacional de Control y Fiscalización.",
+      "imagen": "img/team-1.jpg"
+    }
+  ]
+}
